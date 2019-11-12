@@ -1,0 +1,104 @@
+/* NAVBAR */
+.navbar{
+    position:absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+    color: honeydew;
+    text-align: center;
+    padding: 20px;
+    width: auto;
+    
+}
+.navbar a{
+    padding: 50px;
+    margin-right: 20px;
+}
+
+/* FOOTER */
+
+footer{
+    position: absolute;
+    bottom:0px;
+    left:0;
+    right:0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    color: honeydew;
+    padding: 15px;
+}
+
+/* FORMULAIRE */
+*{
+    background-color:#F4F4FC;  
+}
+form{
+    border-radius: 5px;
+    padding:30px;
+    width: 50%;
+    margin:auto;
+    
+}
+
+ .form-group input{
+     width: 60%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     border: 2px solid black;
+     border-radius: 4px;
+ }
+ button{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid whitesmoke;
+    background-color: #1CACF4;
+    border-radius: 4px;
+    color: whitesmoke;
+ }
+ /* BANNIERE */
+
+ .banniere{
+     width:100%;
+     margin:60px;
+     text-align: center;
+     background-image: url();
+ }
+ /* CARTES */
+/* Events */
+ .card{
+     width: 40%;
+     box-shadow: 0 4px 8px 0;
+ }
+ .card-body{
+    padding: 2px 16px;
+ }
+
+ /* Participants/Villes */
+
+ ul li {
+     border: 1px solid #848CA1;
+     background-color:#F4F4FC;
+     padding: 12px;
+    
+ }
+
+ /* COMMENTAIRES */
+
+
+ .commentaires{
+    border-radius: 5px;
+    padding:30px;
+    width: 50%;
+    margin:auto;
+ }
+ textarea{
+    border: 2px solid black;
+    border-radius: 4px;
+
+ }
